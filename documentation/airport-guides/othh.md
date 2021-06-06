@@ -26,7 +26,7 @@ The sim features a combination of these sectors:
 |:----------------:|:-----------------:|
 |   Doha Radar     |    121.100 MHz    |
 |   Doha Approach  |    119.757 MHz    |
-|   Doha Direct    |    119.400 MHz    |
+|   Doha Director  |    119.400 MHz    |
 
 
 ### Other aerodromes of interest
@@ -46,4 +46,4 @@ Runway 16/34, Asphalt, 3750m (12303ft)
 
 
 ### Additional Resources
-<a href="https://www.aim.gov.qa/eaip/2018-02-01-AIRAC/html/index-en-GB.html" target="_blank">Qatar EAIP</a>
+<a href="https://www.aim.gov.qa/eaip/2021-03-25-AIRAC/html/index-en-GB.html" target="_blank">Qatar EAIP</a>
