@@ -183,7 +183,7 @@
         "OVONA": ["N25d24m43.00", "E052d47m39.00"],
         "PASAV": ["N25d15m55.53", "E051d55m50.50"],
         "PASID": ["N25d05m15.69", "E051d40m45.07"],
-        "PATIS": ["N25d40.77", "E52d21.69"],
+        "VAXIN": ["N25d40.77", "E52d21.69"],
         "PATOM": ["N25d58m21.41", "E051d18m36.36"],
         "PEGEM": ["N25d19m25.12", "E052d06m39.78"],
         "PURIN": ["N25d03m41.15", "E051d33m14.60"],
@@ -1824,13 +1824,13 @@
         "R659": ["SOGAN", "ROSAN", "DASOS", "RABLA", "VEDED", "VELAM", "EMISA", "DOH"],
         "T112": ["LADEM", "AFNAN"],
         "T444": ["DENVO", "BAH", "ELOSO", "DESBU"],
-        "T800": ["DOH", "PATIS", "DASUT", "VEKEL", "MIRIT"],
+        "T800": ["DOH", "VAXIN", "DASUT", "VEKEL", "MIRIT"],
         "UL438": ["KOBOK", "MOGAS", "ITOKO", "TOSTA", "ASTAD"],
         "UL564": ["MIGMA", "KUTNA", "SOMAL", "BAT", "DENSI", "DATRI", "EMEXA", "LADEM", "DOH"],
         "UM430": ["HSA", "SALWA", "ULIKA", "GINTO", "LAGNO", "DOH", "BOVIP", "TOSNA"],
         "UR659": ["SOGAN", "ROSAN", "DASOS", "RABLA", "VEDED", "VELAM", "EMISA", "DOH"],
         "UT444": ["DENVO", "BAH", "ELOSO", "DESBU"],
-        "UT800": ["DOH", "PATIS", "DASUT", "VEKEL", "MIRIT"],
+        "UT800": ["DOH", "VAXIN", "DASUT", "VEKEL", "MIRIT"],
         "Z225": ["VELAM", "GOMTO", "LUBAK", "LABOV", "BAYAN"]
     },
     "sids": {
@@ -2170,60 +2170,60 @@
                 ["_RWY16R", "GETAM", "ENELI", "KOBEN", "GIBIN", "IVIBO", "LABOV", "GOBLU", "NAMLA*"]
             ]
         },
-        "PATIS1C": {
-            "icao": "PATIS1C",
-            "name": "Patis One Charlie",
+        "VAXIN1C": {
+            "icao": "VAXIN1C",
+            "name": "Vaxin One Charlie",
             "rwy": {
                 "OTHH16R": []
             },
-            "body":[["OBVER", "A40"], "NAKAB", "LUDOS", "NOSBI", ["NOVLA", "A40"], ["GOBLU", "A50"], ["OTINO", "A50"], ["PATIS", "A60-"]],
+            "body":[["OBVER", "A40"], "NAKAB", "LUDOS", "NOSBI", ["NOVLA", "A40"], ["GOBLU", "A50"], ["OTINO", "A50"], ["VAXIN", "A60-"]],
             "exitPoints": {
-                "PATIS": []
+                "VAXIN": []
             },
             "draw": [
-                ["_RWY34L", "OBVER", "NAKAB", "LUDOS", "NOSBI", "NOVLA", "GOBLU", "PATIS*"]
+                ["_RWY34L", "OBVER", "NAKAB", "LUDOS", "NOSBI", "NOVLA", "GOBLU", "VAXIN*"]
             ]
         },
-        "PATIS1E": {
-            "icao": "PATIS1E",
-            "name": "Patis One Echo",
+        "VAXIN1E": {
+            "icao": "VAXIN1E",
+            "name": "Vaxin One Echo",
             "rwy": {
                 "OTHH34R": []
             },
-            "body":[["SOKEN", "A25+"], ["DEMBO", "A40"], ["UKILA", "A60+"], ["LABOV", "A70"], "PATIS"],
+            "body":[["SOKEN", "A25+"], ["DEMBO", "A40"], ["UKILA", "A60+"], ["LABOV", "A70"], "VAXIN"],
             "exitPoints": {
-                "PATIS": []
+                "VAXIN": []
             },
             "draw": [
-                ["_RWY16L", "SOKEN", "DEMBO", "UKILA", "LABOV", "PATIS*"]
+                ["_RWY16L", "SOKEN", "DEMBO", "UKILA", "LABOV", "VAXIN*"]
             ]
         },
-        "PATIS1M": {
-            "icao": "PATIS1M",
-            "name": "Patis One Mike",
+        "VAXIN1M": {
+            "icao": "VAXIN1M",
+            "name": "Vaxin One Mike",
             "rwy": {
                 "OTHH16L": []
             },
-            "body":["TORKO", ["PASAV", "A40+"], ["DEBOM", "A50+"], ["PEGEM", "A60+"], ["GOBLU", "A70"], "PATIS"],
+            "body":["TORKO", ["PASAV", "A40+"], ["DEBOM", "A50+"], ["PEGEM", "A60+"], ["GOBLU", "A70"], "VAXIN"],
             "exitPoints": {
-                "PATIS": []
+                "VAXIN": []
             },
             "draw": [
-                ["_RWY34R", "TORKO", "PASAV", "DEBOM", "PEGEM", "GOBLU", "PATIS*"]
+                ["_RWY34R", "TORKO", "PASAV", "DEBOM", "PEGEM", "GOBLU", "VAXIN*"]
             ]
         },
-        "PATIS1W": {
-            "icao": "PATIS1W",
-            "name": "Patis One Whiskey",
+        "VAXIN1W": {
+            "icao": "VAXIN1W",
+            "name": "Vaxin One Whiskey",
             "rwy": {
                 "OTHH34L": []
             },
-            "body":[["GETAM", "A25+"], "ENELI", ["KOBEN", "A30"], "GIBIN", ["TANLA", "A30"], ["KEDEN", "A50-"], ["PATIS", "A60-"]],
+            "body":[["GETAM", "A25+"], "ENELI", ["KOBEN", "A30"], "GIBIN", ["TANLA", "A30"], ["KEDEN", "A50-"], ["VAXIN", "A60-"]],
             "exitPoints": {
-                "PATIS": []
+                "VAXIN": []
             },
             "draw": [
-                ["_RWY16R", "GETAM", "ENELI", "KOBEN", "GIBIN", "TANLA", "KEDEN", "PATIS*"]
+                ["_RWY16R", "GETAM", "ENELI", "KOBEN", "GIBIN", "TANLA", "KEDEN", "VAXIN*"]
             ]
         },
         "PATOM1C": {
@@ -2575,7 +2575,7 @@
             "origin": "OTHH",
             "destination": "",
             "category": "departure",
-            "route": "OTHH34R.BATHA1E.BAT.UL564.KUTNA",
+            "route": "OTHH34L.BATHA1W.BAT.UL564.KUTNA",
             "altitude": "",
             "speed": "",
             "method": "random",
@@ -2626,7 +2626,7 @@
             "origin": "OTHH",
             "destination": "",
             "category": "departure",
-            "route": "OTHH34R.PATIS1E.PATIS.T800.DASUT.UT800.VEKEL",
+            "route": "OTHH34R.VAXIN1E.VAXIN.T800.DASUT.UT800.VEKEL",
             "altitude": "",
             "speed": "",
             "method": "random",
@@ -2640,7 +2640,7 @@
             "origin": "OTHH",
             "destination": "",
             "category": "departure",
-            "route": "OTHH34R.PATOM1E.PATOM.M444.DENVO.UT444.DESBU",
+            "route": "OTHH34L.PATOM1W.PATOM.M444.DENVO.UT444.DESBU",
             "altitude": "",
             "speed": "",
             "method": "random",
